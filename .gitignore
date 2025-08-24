@@ -1,0 +1,5 @@
+# Ignore system and temporary files
+*.log
+node_modules/
+.DS_Store
+AppData/
