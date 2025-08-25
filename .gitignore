@@ -1,4 +1,4 @@
-# Ignore system and temporary files
+# Ignore temporary/system files
 *.log
 node_modules/
 .DS_Store
